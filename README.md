@@ -1,0 +1,1 @@
+# ja-translation-rsc
