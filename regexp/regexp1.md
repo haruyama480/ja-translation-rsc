@@ -1,3 +1,8 @@
+metadata
+- 翻訳者: haruyama480
+- (訳注)は翻訳者によるもの
+- この文章は、markdownで書かれ、pdfに変換された後google docsに公開されます
+
 Russ Coxによる正規表現についての4つ記事の1つ目
 - https://swtch.com/~rsc/regexp/regexp1.html
 - https://swtch.com/~rsc/regexp/regexp2.html
@@ -7,7 +12,9 @@ Russ Coxによる正規表現についての4つ記事の1つ目
 
 [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/) に基づき翻訳&公開します。
 
-以下翻訳。(訳注)は haruyama480 によるもの。
+以下、翻訳
+
+---
 
 ## はじめに
 これは正規表現マッチングに対する2つのアプローチの物語です。一つはPerlを含む多くの言語の標準インタプリタで広く使われているものです。もう一つは、awk や grep の実装をはじめとする、ごく一部の場所でしか使われていません。この2つのアプローチの性能は大きく異なります。
