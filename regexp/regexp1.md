@@ -10,8 +10,6 @@ Russ Coxによる正規表現についての4つ記事の1つ目
 - https://swtch.com/~rsc/regexp/regexp4.html
 - その他リンク https://swtch.com/~rsc/regexp/
 
-[Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/) に基づき翻訳&公開します。
-
 以下、翻訳
 
 ---
